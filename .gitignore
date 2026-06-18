@@ -1,0 +1,131 @@
+Flutter/Dart
+
+.dart_tool/
+.packages
+.pub/
+.pub-cache/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+Build Outputs
+
+/build/
+/build/**
+/out/
+/release/
+
+Generated Files
+
+**/.g.dart
+**/.freezed.dart
+
+Coverage
+
+coverage/
+
+IDE
+
+.idea/
+.vscode/
+*.iml
+
+Android
+
+android/.gradle/
+android/local.properties
+android/key.properties
+android/app/debug/
+android/app/profile/
+android/app/release/
+
+Android Studio
+
+captures/
+
+iOS
+
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/App.framework
+ios/Flutter/Flutter.podspec
+
+macOS
+
+macos/Pods/
+
+Linux
+
+linux/flutter/ephemeral/
+
+Windows
+
+windows/flutter/ephemeral/
+
+Web
+
+web/.dart_tool/
+
+Temporary Files
+
+*.tmp
+*.temp
+*.log
+*.bak
+*.cache
+
+Operating System
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+Environment Files
+
+.env
+.env.*
+
+Firebase (if added later)
+
+firebase.json
+google-services.json
+GoogleService-Info.plist
+
+Signing Keys
+
+*.jks
+*.keystore
+*.pem
+*.p12
+
+SQLite Databases
+
+*.db
+*.sqlite
+*.sqlite3
+
+Local Backups
+
+backup/
+downloads/
+
+Generated APK/AAB
+
+*.apk
+*.aab
+
+Miscellaneous
+
+*.lock
+!.gitignore
+
+Crash Logs
+
+crashlytics.log
+hs_err_pid*
+
+Secrets
+
+secrets/
+keys/
+private/
